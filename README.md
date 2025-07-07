@@ -6,7 +6,7 @@ A simple stock trading project inspired by Zerodha.
 
 ## 📹 Demo Video
 
-🎥 Watch Demo: (https://youtu.be/p1fO5uYIa48)
+🎥 Watch Demo: (https://youtu.be/7l0_Npgk_tI)
 
 ---
 
